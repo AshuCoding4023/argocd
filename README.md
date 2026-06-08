@@ -1,2 +1,0 @@
-# argocd
-may2026
